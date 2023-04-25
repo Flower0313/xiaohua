@@ -4,8 +4,10 @@
 </template>
 
 <script>
+// 导入主键
 import HelloWorld from './components/HelloWorld.vue'
 
+// 注册主键
 export default {
   name: 'App',
   components: {
